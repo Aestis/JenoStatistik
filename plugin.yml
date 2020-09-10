@@ -1,0 +1,23 @@
+name: JenoStatistik2
+main: Phreag.JenoStatistik2.JenoStatistik
+version: 2.0
+description: Simple SQL Statistics Plugin
+api-version: 1.13
+author: Phreag
+commands:
+   stat:
+      description: Zeigt Statistiken an
+      usage: /<command> <Player>
+   topstat:
+      description: Zeigt die Statistik-Rangliste an
+      usage: /<command>
+   js:
+      description: Zeigt dir die Jenostatistik-Hilfeseite an
+      usage: /<command>
+   jenostatistik:
+      description: Zeigt dir die Jenostatistik-Hilfeseite an
+      usage: /<command>
+   topmon:
+      description: Zeigt dir die Top Spieler nach Monat an
+      usage: /<command>
+      
